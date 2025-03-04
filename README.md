@@ -36,6 +36,9 @@ Before you begin, ensure you have the following installed:
 
     Open your web browser and navigate to http://localhost:8080
 
+![sc-rust_chat_app](https://github.com/user-attachments/assets/667e6955-90e5-4ee4-9e2b-a3e4c1f180e0)
+
+
 ## Configuration
 You can configure the application through environment variables:
 
