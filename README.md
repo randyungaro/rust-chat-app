@@ -1,4 +1,6 @@
 
+![rsizzeee](https://github.com/user-attachments/assets/164a33b8-c522-49f1-bf1a-5c590b1724ae)
+
 # Rust Chat App with Ollama Models
 
 This is a simple web-based AI chat application built with Rust, leveraging Ollama to run large language models (LLMs).
